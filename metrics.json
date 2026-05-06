@@ -1,0 +1,36 @@
+{
+  "total_candidates": 2482,
+  "score_mean": 14.38,
+  "score_std": 6.73,
+  "score_min": 0.0,
+  "score_max": 68.97,
+  "score_median": 13.38,
+  "required_skills_count": 14,
+  "required_skills": [
+    "aws",
+    "big data",
+    "communication",
+    "data analysis",
+    "deep learning",
+    "machine learning",
+    "nlp",
+    "pandas",
+    "problem solving",
+    "python",
+    "scikit-learn",
+    "sql",
+    "statistics",
+    "tensorflow"
+  ],
+  "weights_used": {
+    "tfidf_similarity": 0.45,
+    "skill_overlap": 0.4,
+    "resume_richness": 0.15
+  },
+  "precision_at_5": 1.0,
+  "avg_skill_match_top_5": 5.2,
+  "precision_at_10": 0.5,
+  "avg_skill_match_top_10": 5.2,
+  "precision_at_20": 0.25,
+  "avg_skill_match_top_20": 4.45
+}
